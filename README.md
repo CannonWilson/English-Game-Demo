@@ -5,8 +5,12 @@ After witnessing the events in Iraq after US troops left the country, we decided
 to create an engaging video game to teach English, particularly to those from immigant or refugee backgrounds.
 
 Currently, I am the sole programmer. The following is a demo of what we've made so far. A full video can be found here:
-[YouTube](https://youtu.be/B4p1pnh_Fb0)
+![YouTube](https://youtu.be/B4p1pnh_Fb0)
 
-[Movement and Dialogue](https://j.gifs.com/r2MBDp.gif)
+![Movement and Dialogue](https://j.gifs.com/r2MBDp.gif)
 I started by making a player character that moves and rotates with user input. Then, I created a basic dialogue menu that appears
-when a character is approached.
+when a character is approached. The character can 
+
+![Word and Phrase Menu](https://j.gifs.com/w0R70z.gif)
+Next, I created a menu that allows the user to arrange words into phrases. The menu has drag and drop functionality, as well as
+a button that responds to correct or incorrect input.
